@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Jenu-Gumpu</string>
+    <string name="harvest_log">Harvest Log</string>
+    <string name="harvest_log_desc">Record Date, Place, Amount</string>
+    <string name="honey_grading">Honey Grading</string>
+    <string name="honey_grading_desc">Check Honey Quality</string>
+    <string name="price_monitor">Price Monitor</string>
+    <string name="price_monitor_subtitle">Real-time Retail vs Wholesale Market Trends</string>
+    <string name="price_monitor_desc">Retail vs Wholesale Price</string>
+    <string name="batch_tracker">Batch Tracker</string>
+    <string name="batch_tracker_desc">Assign Batch ID \u0026 Trace</string>
+    <string name="total_collective_stock">Total Collective Stock</string>
+    <string name="floral_source">Floral Source</string>
+    <string name="coffee_blossom">Coffee Blossom</string>
+    <string name="wildflower">Wildflower</string>
+    <string name="neem_blossom">Neem Blossom</string>
+    <string name="sunflower">Sunflower</string>
+    <string name="price_check">Price Check</string>
+    <string name="retail_price">Retail Price</string>
+    <string name="wholesale_price">Wholesale Price</string>
+    <string name="my_profit">My Profit</string>
+    <string name="profit_after_filtering">Profit After Filtering</string>
+    <string name="home">Home</string>
+    <string name="reports">Reports</string>
+    <string name="batches">Batches</string>
+    <string name="settings">Settings</string>
+    <string name="save_harvest">Save Harvest</string>
+    <string name="harvest_date">Harvest Date</string>
+    <string name="forest_location">Forest Location</string>
+    <string name="honey_quantity">Honey Quantity</string>
+    <string name="grading_premium">Grade A (Premium)</string>
+    <string name="grading_standard">Grade B (Standard)</string>
+    <string name="grading_industrial">Grade C (Processing)</string>
+    <string name="sustainable_guidelines">Sustainable Harvest Guidelines</string>
+
+    <string name="moisture_check_title">How to Check Moisture Level?</string>
+    <string name="spoon_test_title">1. The Spoon Test (Traditional)</string>
+    <string name="spoon_test_desc">Lift a spoon of honey. If it falls in a continuous \'string\' without breaking, moisture is LOW (Grade A). If it drips like water, moisture is HIGH.</string>
+    <string name="thumb_test_title">2. The Thumb Test</string>
+    <string name="thumb_test_desc">Put a drop on your thumb. Pure, low-moisture honey stays intact. High-moisture honey will spread or spill immediately.</string>
+    <string name="refract_test_title">3. Refractometer (Professional)</string>
+    <string name="refract_test_desc">Use a honey refractometer to get an exact percentage. Ideal is below 18%.</string>
+    <string name="shade_guide_title">Visual Shade Guide</string>
+    <string name="grade_a_details">Color: Extra White / Pale Gold\nSource: Coffee Blossom\nMoisture: &lt; 18%</string>
+    <string name="grade_b_details">Color: Light Amber\nSource: Wildflower\nMoisture: 18-20%</string>
+    <string name="grade_c_details">Color: Dark Amber\nSource: Forest Multifloral\nMoisture: &gt; 20%</string>
+    <string name="back_to_dashboard">Back to Dashboard</string>
+
+    <string name="how_to_grade_title">How to Grade Using this App?</string>
+    <string name="step_1_title">1. Match the Color</string>
+    <string name="step_1_desc">Hold your real jar of honey next to the screen. Match the liquid color to the Shade Guide blocks below.</string>
+    <string name="step_2_title">2. Check Flow (Moisture)</string>
+    <string name="step_2_desc">Use the Spoon Test or Thumb Test described below to estimate the moisture percentage.</string>
+    <string name="step_3_title">3. Assign the Grade</string>
+    <string name="step_3_desc">Once color and moisture match, categorize your honey as Grade A, B, or C during the Harvest Log entry.</string>
+
+    <string name="sustainable_desc">How to harvest without killing the bee colony</string>
+    <string name="smoke_title">1. Smoke usage</string>
+    <string name="smoke_desc">Use cool, natural smoke to calm bees. Avoid high heat that can burn their wings.</string>
+    <string name="portion_title">2. Leave 1/3 portion</string>
+    <string name="portion_desc">Always leave one-third of the honeycomb for the bees to survive and regrow.</string>
+    <string name="queen_title">3. Save the Queen</string>
+    <string name="queen_desc">Ensure the queen bee and the brood (eggs) are not harmed during the process.</string>
+    <string name="i_understand">I Understand</string>
+
+    <string name="select_language">Select Language / ಭಾಷೆಯನ್ನು ಆಯ್ಕೆಮಾಡಿ</string>
+    <string name="english">English</string>
+    <string name="kannada">ಕನ್ನಡ (Kannada)</string>
+    <string name="back">Back</string>
+    <string name="moisture_hint">Moisture % (e.g. 15)</string>
+    <string name="moisture_methods_subtitle">Scientific and Traditional Methods to verify Purity</string>
+    <string name="icon_water">💧</string>
+    <string name="icon_arrow">➔</string>
+</resources>

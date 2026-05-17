@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">ಜೇನು-ಗುಂಪು</string>
+    <string name="harvest_log">ಸುಗ್ಗಿಯ ದಾಖಲೆ</string>
+    <string name="harvest_log_desc">ದಿನಾಂಕ, ಸ್ಥಳ, ಪ್ರಮಾಣವನ್ನು ರೆಕಾರ್ಡ್ ಮಾಡಿ</string>
+    <string name="honey_grading">ಜೇನು ವರ್ಗೀಕರಣ</string>
+    <string name="honey_grading_desc">ಜೇನುತುಪ್ಪದ ಗುಣಮಟ್ಟವನ್ನು ಪರಿಶೀಲಿಸಿ</string>
+    <string name="price_monitor">ಬೆಲೆ ಮೇಲ್ವಿಚಾರಣೆ</string>
+    <string name="price_monitor_subtitle">ನೈಜ-ಸಮಯದ ಚಿಲ್ಲರೆ ಮತ್ತು ಸಗಟು ಮಾರುಕಟ್ಟೆ ಪ್ರವೃತ್ತಿಗಳು</string>
+    <string name="price_monitor_desc">ಚಿಲ್ಲರೆ ಮತ್ತು ಸಗಟು ಬೆಲೆ</string>
+    <string name="batch_tracker">ಬ್ಯಾಚ್ ಟ್ರ್ಯಾಕರ್</string>
+    <string name="batch_tracker_desc">ಬ್ಯಾಚ್ ಐಡಿ ನಿಯೋಜಿಸಿ ಮತ್ತು ಟ್ರೇಸ್ ಮಾಡಿ</string>
+    <string name="total_collective_stock">ಒಟ್ಟು ಸಾಮೂಹಿಕ ದಾಸ್ತಾನು</string>
+    <string name="floral_source">ಹೂವಿನ ಮೂಲ</string>
+    <string name="coffee_blossom">ಕಾಫಿ ಹೂವು</string>
+    <string name="wildflower">ಕಾಡು ಹೂವು</string>
+    <string name="neem_blossom">ಬೇವು ಹೂವು</string>
+    <string name="sunflower">ಸೂರ್ಯಕಾಂತಿ</string>
+    <string name="price_check">ಬೆಲೆ ಪರಿಶೀಲನೆ</string>
+    <string name="retail_price">ಚಿಲ್ಲರೆ ಬೆಲೆ</string>
+    <string name="wholesale_price">ಸಗಟು ಬೆಲೆ</string>
+    <string name="my_profit">ನನ್ನ ಲಾಭ</string>
+    <string name="profit_after_filtering">ಫಿಲ್ಟರಿಂಗ್ ನಂತರದ ಲಾಭ</string>
+    <string name="home">ಮುಖಪುಟ</string>
+    <string name="reports">ವರದಿಗಳು</string>
+    <string name="batches">ಬ್ಯಾಚ್‌ಗಳು</string>
+    <string name="settings">ಸಂಯೋಜನೆಗಳು</string>
+    <string name="save_harvest">ಸುಗ್ಗಿಯನ್ನು ಉಳಿಸಿ</string>
+    <string name="harvest_date">ಸುಗ್ಗಿಯ ದಿನಾಂಕ</string>
+    <string name="forest_location">ಅರಣ್ಯ ಸ್ಥಳ</string>
+    <string name="honey_quantity">ಜೇನುತುಪ್ಪದ ಪ್ರಮಾಣ</string>
+    <string name="grading_premium">ಗ್ರೇಡ್ ಎ (ಪ್ರೀಮಿಯಂ)</string>
+    <string name="grading_standard">ಗ್ರೇಡ್ ಬಿ (ಸ್ಟ್ಯಾಂಡರ್ಡ್)</string>
+    <string name="grading_industrial">ಗ್ರೇಡ್ ಸಿ (ಸಂಸ್ಕರಣೆ)</string>
+    <string name="sustainable_guidelines">ಸುಸ್ಥಿರ ಸುಗ್ಗಿಯ ಮಾರ್ಗಸೂಚಿಗಳು</string>
+
+    <string name="moisture_check_title">ತೇವಾಂಶದ ಮಟ್ಟವನ್ನು ಪರಿಶೀಲಿಸುವುದು ಹೇಗೆ?</string>
+    <string name="spoon_test_title">1. ಚಮಚ ಪರೀಕ್ಷೆ (ಸಂಪ್ರದಾಯ)</string>
+    <string name="spoon_test_desc">ಒಂದು ಚಮಚ ಜೇನುತುಪ್ಪವನ್ನು ಎತ್ತಿ. ಅದು ತುಂಡಾಗದೆ ಸತತವಾಗಿ ಸುರಿದರೆ, ತೇವಾಂಶ ಕಡಿಮೆ ಇರುತ್ತದೆ (ಗ್ರೇಡ್ ಎ). ನೀರಿನಂತೆ ಹನಿ ಹನಿಯಾಗಿ ಬಿದ್ದರೆ, ತೇವಾಂಶ ಹೆಚ್ಚಿರುತ್ತದೆ.</string>
+    <string name="thumb_test_title">2. ಹೆಬ್ಬೆರಳು ಪರೀಕ್ಷೆ</string>
+    <string name="thumb_test_desc">ನಿಮ್ಮ ಹೆಬ್ಬೆರಳಿನ ಮೇಲೆ ಒಂದು ಹನಿ ಜೇನು ಹಾಕಿ. ಶುದ್ಧವಾದ ಕಡಿಮೆ ತೇವಾಂಶದ ಜೇನು ಹನಿಯಂತೆ ಹಾಗೆಯೇ ಇರುತ್ತದೆ. ತೇವಾಂಶ ಹೆಚ್ಚಿರುವ ಜೇನು ಕೂಡಲೇ ಹರಡುತ್ತದೆ.</string>
+    <string name="refract_test_title">3. ರಿಫ್ರಾಕ್ಟೋಮೀಟರ್ (ವೃತ್ತಿಪರ)</string>
+    <string name="refract_test_desc">ನಿಖರವಾದ ಶೇಕಡಾವಾರು ಪ್ರಮಾಣವನ್ನು ತಿಳಿಯಲು ರಿಫ್ರಾಕ್ಟೋಮೀಟರ್ ಬಳಸಿ. 18% ಕ್ಕಿಂತ ಕಡಿಮೆ ಇರುವುದು ಉತ್ತಮ.</string>
+    <string name="shade_guide_title">ಜೇನು ಬಣ್ಣಗಳ ಮಾರ್ಗದರ್ಶಿ</string>
+    <string name="grade_a_details">ಬಣ್ಣ: ತಿಳಿ ಚಿನ್ನದ ಬಣ್ಣ\nಮೂಲ: ಕಾಫಿ ಹೂವು\nತೇವಾಂಶ: &lt; 18%</string>
+    <string name="grade_b_details">ಬಣ್ಣ: ಅಂಬರ್ ಬಣ್ಣ\nಮೂಲ: ಕಾಡು ಹೂವು\nತೇವಾಂಶ: 18-20%</string>
+    <string name="grade_c_details">ಬಣ್ಣ: ಕಡು ಕಂದು ಬಣ್ಣ\nಮೂಲ: ಅರಣ್ಯ ಹೂವು\nತೇವಾಂಶ: &gt; 20%</string>
+    <string name="back_to_dashboard">ಡ್ಯಾಶ್‌ಬೋರ್ಡ್‌ಗೆ ಹಿಂತಿರುಗಿ</string>
+
+    <string name="how_to_grade_title">ಈ ಆ್ಯಪ್ ಬಳಸಿ ಗ್ರೇಡಿಂಗ್ ಮಾಡುವುದು ಹೇಗೆ?</string>
+    <string name="step_1_title">1. ಬಣ್ಣವನ್ನು ಹೋಲಿಕೆ ಮಾಡಿ</string>
+    <string name="step_1_desc">ನಿಮ್ಮ ಜೇನುತುಪ್ಪದ ಬಾಟಲಿಯನ್ನು ಫೋನ್ ಪರದೆಯ ಹತ್ತಿರ ಹಿಡಿಯಿರಿ. ಕೆಳಗಿನ ಬಣ್ಣದ ಮಾರ್ಗದರ್ಶಿಯೊಂದಿಗೆ ಬಣ್ಣವನ್ನು ಹೋಲಿಕೆ ಮಾಡಿ.</string>
+    <string name="step_2_title">2. ತೇವಾಂಶ ಪರೀಕ್ಷಿಸಿ</string>
+    <string name="step_2_desc">ತೇವಾಂಶದ ಪ್ರಮಾಣವನ್ನು ಅಂದಾಜು ಮಾಡಲು ಕೆಳಗೆ ವಿವರಿಸಲಾದ ಚಮಚ ಅಥವಾ ಹೆಬ್ಬೆರಳು ಪರೀಕ್ಷೆಯನ್ನು ಬಳಸಿ.</string>
+    <string name="step_3_title">3. ಗ್ರೇಡ್ ನಿಗದಿಪಡಿಸಿ</string>
+    <string name="step_3_desc">ಬಣ್ಣ ಮತ್ತು ತೇವಾಂಶವು ಹೊಂದಿಕೆಯಾದ ನಂತರ, ಸುಗ್ಗಿಯ ದಾಖಲೆಯಲ್ಲಿ ಅದನ್ನು ಗ್ರೇಡ್ ಎ, ಬಿ ಅಥವಾ ಸಿ ಎಂದು ನಮೂದಿಸಿ.</string>
+
+    <string name="sustainable_desc">ಜೇನುನೊಣಗಳನ್ನು ಕೊಲ್ಲದೆ ಜೇನುತುಪ್ಪವನ್ನು ಹೇಗೆ ಸಂಗ್ರಹಿಸುವುದು</string>
+    <string name="smoke_title">1. ಹೊಗೆಯ ಬಳಕೆ</string>
+    <string name="smoke_desc">ಜೇನುನೊಣಗಳನ್ನು ಶಾಂತಗೊಳಿಸಲು ತಂಪಾದ ಹೊಗೆಯನ್ನು ಬಳಸಿ. ಬೆಂಕಿಯ ಶಾಖದಿಂದ ಅವುಗಳ ರೆಕ್ಕೆಗಳು ಸುಡದಂತೆ ಎಚ್ಚರವಹಿಸಿ.</string>
+    <string name="portion_title">2. 1/3 ಭಾಗವನ್ನು ಬಿಡಿ</string>
+    <string name="portion_desc">ಜೇನುನೊಣಗಳು ಬದುಕಲು ಮತ್ತು ಮರುಬೆಳೆಯಲು ಯಾವಾಗಲೂ ಜೇನುಗೂಡಿನ ಮೂರನೇ ಒಂದು ಭಾಗವನ್ನು ಬಿಡಿ.</string>
+    <string name="queen_title">3. ರಾಣಿ ನೊಣವನ್ನು ಉಳಿಸಿ</string>
+    <string name="queen_desc">ಸಂಗ್ರಹಣೆಯ ಸಮಯದಲ್ಲಿ ರಾಣಿ ನೊಣ ಮತ್ತು ಮೊಟ್ಟೆಗಳಿಗೆ ಹಾನಿಯಾಗದಂತೆ ನೋಡಿಕೊಳ್ಳಿ.</string>
+    <string name="i_understand">ನನಗೆ ಅರ್ಥವಾಗಿದೆ</string>
+
+    <string name="select_language">ಭಾಷೆಯನ್ನು ಆಯ್ಕೆಮಾಡಿ</string>
+    <string name="english">ಇಂಗ್ಲೀಷ್ (English)</string>
+    <string name="kannada">ಕನ್ನಡ (Kannada)</string>
+    <string name="back">ಹಿಂದೆ</string>
+    <string name="moisture_hint">ತೇವಾಂಶ ಶೇಕಡಾವಾರು (ಉದಾಹರಣೆಗೆ 15)</string>
+    <string name="moisture_methods_subtitle">ಶುದ್ಧತೆಯನ್ನು ಪರಿಶೀಲಿಸಲು ವೈಜ್ಞಾನಿಕ ಮತ್ತು ಸಾಂಪ್ರದಾಯಿಕ ವಿಧಾನಗಳು</string>
+    <string name="icon_water">💧</string>
+    <string name="icon_arrow">➔</string>
+</resources>

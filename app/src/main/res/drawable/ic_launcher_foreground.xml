@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Stylized Bee Body -->
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M54,44c-8,0 -14,6 -14,14s6,14 14,14 14,-6 14,-14 -6,-14 -14,-14z" />
+
+    <!-- Bee Stripes -->
+    <path
+        android:fillColor="#212121"
+        android:pathData="M42,54h24v3h-24zM40,58h28v3h-28z" />
+
+    <!-- Wings -->
+    <path
+        android:fillColor="#80FFFFFF"
+        android:pathData="M54,54c0,0 -15,-15 -25,-10s-5,20 5,20s20,-10 20,-10z" />
+    <path
+        android:fillColor="#80FFFFFF"
+        android:pathData="M54,54c0,0 15,-15 25,-10s5,20 -5,20s-20,-10 -20,-10z" />
+
+    <!-- Antennae -->
+    <path
+        android:strokeColor="#FFC107"
+        android:strokeWidth="1.5"
+        android:pathData="M50,45l-4,-6M58,45l4,-6" />
+
+    <!-- Hexagon Outline (Aesthetic Frame) -->
+    <path
+        android:strokeColor="#FFC107"
+        android:strokeWidth="2"
+        android:pathData="M54,20l30,17v34l-30,17l-30,-17v-34z" />
+
+</vector>
