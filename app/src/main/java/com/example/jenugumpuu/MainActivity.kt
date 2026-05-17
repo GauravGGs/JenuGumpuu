@@ -150,12 +150,12 @@ class MainActivity : AppCompatActivity() {
         cardHarvest.setOnClickListener { mainScrollView.smoothScrollTo(0, formContainer.top) }
         cardGrading.setOnClickListener { startActivity(Intent(this, GradingActivity::class.java)) }
         cardPrice.setOnClickListener { startActivity(Intent(this, PriceMonitorActivity::class.java)) }
-        cardBatch.setOnClickListener { mainScrollView.smoothScrollTo(0, rvBatches.top) }
+        cardBatch.setOnClickListener { startActivity(Intent(this, BatchTrackerActivity::class.java)) }
         
         // Bottom Nav
         navHome.setOnClickListener { mainScrollView.smoothScrollTo(0, 0) }
         navReports.setOnClickListener { startActivity(Intent(this, GuidelinesActivity::class.java)) }
-        navBatches.setOnClickListener { mainScrollView.smoothScrollTo(0, rvBatches.top) }
+        navBatches.setOnClickListener { startActivity(Intent(this, BatchTrackerActivity::class.java)) }
         navSettings.setOnClickListener { startActivity(Intent(this, SettingsActivity::class.java)) }
     }
 
