@@ -25,6 +25,7 @@
         <activity android:name=".SettingsActivity" />
         <activity android:name=".PriceMonitorActivity" />
         <activity android:name=".MoistureInfoActivity" />
+        <activity android:name=".BatchTrackerActivity" />
     </application>
 
 </manifest>

@@ -67,6 +67,9 @@
     <string name="english">ಇಂಗ್ಲೀಷ್ (English)</string>
     <string name="kannada">ಕನ್ನಡ (Kannada)</string>
     <string name="back">ಹಿಂದೆ</string>
+    <string name="search_batch_hint">ಬ್ಯಾಚ್ ಐಡಿ ನಮೂದಿಸಿ (ಉದಾ: BATCH-1001)</string>
+    <string name="no_batch_found">ಯಾವುದೇ ಬ್ಯಾಚ್ ಕಂಡುಬಂದಿಲ್ಲ!</string>
+    <string name="traceability_title">ಜೇನುತುಪ್ಪದ ಪತ್ತೆಹಚ್ಚುವಿಕೆ (Traceability)</string>
     <string name="moisture_hint">ತೇವಾಂಶ ಶೇಕಡಾವಾರು (ಉದಾಹರಣೆಗೆ 15)</string>
     <string name="moisture_methods_subtitle">ಶುದ್ಧತೆಯನ್ನು ಪರಿಶೀಲಿಸಲು ವೈಜ್ಞಾನಿಕ ಮತ್ತು ಸಾಂಪ್ರದಾಯಿಕ ವಿಧಾನಗಳು</string>
     <string name="icon_water">💧</string>

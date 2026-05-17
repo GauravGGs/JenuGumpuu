@@ -67,6 +67,9 @@
     <string name="english">English</string>
     <string name="kannada">ಕನ್ನಡ (Kannada)</string>
     <string name="back">Back</string>
+    <string name="search_batch_hint">Enter Batch ID (e.g. BATCH-1001)</string>
+    <string name="no_batch_found">No matching batch found!</string>
+    <string name="traceability_title">Honey Traceability</string>
     <string name="moisture_hint">Moisture % (e.g. 15)</string>
     <string name="moisture_methods_subtitle">Scientific and Traditional Methods to verify Purity</string>
     <string name="icon_water">💧</string>
